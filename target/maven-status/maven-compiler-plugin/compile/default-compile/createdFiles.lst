@@ -1,0 +1,6 @@
+com\mycompany\comunicacionengrupo\grupo\Nodo1.class
+com\mycompany\comunicacionengrupo\UDPMulticastServer.class
+com\mycompany\comunicacionengrupo\grupo\NodoCentral.class
+com\mycompany\comunicacionengrupo\UDPMulticastClient.class
+com\mycompany\comunicacionengrupo\grupo\Nodo2.class
+com\mycompany\comunicacionengrupo\grupo\Nodo3.class
